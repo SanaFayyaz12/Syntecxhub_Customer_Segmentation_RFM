@@ -2,6 +2,8 @@
 
 **Syntecxhub Data Analysis Internship – Project 1**
 
+![Project Workflow](images/project_workflow.png)
+
 ---
 
 ## 📖 The Story
@@ -70,6 +72,7 @@ Syntecxhub_Customer_Segmentation_RFM/
 │   └── segment_summary.csv           # The group stats
 │
 ├── 📁 images/
+│   ├── project_workflow.png          # The big picture, at a glance
 │   ├── segment_counts.png            # Who's in which gang?
 │   ├── segment_revenue.png           # Who's actually paying the bills?
 │   ├── recency_vs_frequency.png      # The full plot twist, visualized
