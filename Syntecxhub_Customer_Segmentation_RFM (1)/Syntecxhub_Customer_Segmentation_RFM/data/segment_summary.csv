@@ -1,0 +1,9 @@
+Segment,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Revenue
+Champions / Loyal,172,28.3,17.8,44779.5,7702066.2
+Needs Attention,87,108.4,9.0,12707.1,1105518.2
+Churned,168,281.0,2.6,2655.4,446111.7
+Potential Loyalist,43,46.7,6.9,9765.5,419915.0
+Others,80,177.9,4.6,5126.1,410084.5
+At Risk,12,180.8,8.5,10327.1,123924.8
+Cannot Lose Them,13,261.1,4.7,6569.7,85405.6
+New Customers,25,37.8,1.5,1273.6,31840.4
